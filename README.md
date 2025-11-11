@@ -1,0 +1,2 @@
+# SAKAMOTO-v2-tedte
+Bot by SAKAMOTO TECH 
